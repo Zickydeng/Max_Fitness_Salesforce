@@ -1,3 +1,7 @@
+# MAX_FITNESS 
+*MAX FITNESS* is an event management software that help to manage events very effectively along with the attendees & location information.
+This project invloved 15 milestone from object setup to integration and finally deployment to production and of course with the test code coverage as well.
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
